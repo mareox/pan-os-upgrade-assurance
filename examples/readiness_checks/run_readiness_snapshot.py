@@ -6,7 +6,6 @@ from panos_upgrade_assurance.utils import printer
 from panos.panorama import Panorama
 from argparse import ArgumentParser
 from getpass import getpass
-from pprint import pprint
 
 if __name__ == "__main__":
     argparser = ArgumentParser(

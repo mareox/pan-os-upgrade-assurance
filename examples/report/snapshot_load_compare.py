@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 
-from panos_upgrade_assurance.utils import printer, SnapType
+from panos_upgrade_assurance.utils import printer
 from panos_upgrade_assurance.snapshot_compare import SnapshotCompare
 import json
 
